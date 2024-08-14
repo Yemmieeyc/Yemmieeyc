@@ -3,7 +3,7 @@
 - I love fashion, food, and chilling lifestyles.
 - 🌱 I’m currently learning full stack web development at the BloomTech institute.
 - 💞️ I’m looking to collaborate on building new disruptive solutions to societial issues.
-- 📫 How to reach me ...
+- 📫 How to reach me ... send an email to adewole_aina@yahoo.com
 
 <!---
 Yemmieeyc/Yemmieeyc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
